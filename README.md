@@ -25,6 +25,9 @@ More info: https://help.github.com/en/enterprise/2.15/user/articles/adding-a-new
 
 
 ## Other
+### What is the terminal, and why use it?
+More info: https://learntocodewith.me/getting-started/topics/command-line/
+
 ### Basic bash commands
 More info: https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je
 https://www.unr.edu/research-computing/the-grid/using-the-grid/bash-commands
