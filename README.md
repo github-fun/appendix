@@ -16,7 +16,7 @@ https://www.atlassian.com/git/tutorials/syncing
 
 
 ### Git rebase in depth
-You can rebase one branch by itself, or rebase a branch onto another branch. 
+You can rebase one branch by itself, or rebase a branch onto another branch.   
 More info: https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase
 
 
