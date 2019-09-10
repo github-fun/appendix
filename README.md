@@ -1,6 +1,9 @@
 # github-appendix
 Extra tips and resources relating to concepts covered in the workshop.
 
+### Version control
+More info: https://www.atlassian.com/git/tutorials/what-is-version-control
+
 ## Github tips
 ### Initializing a git repo: 2 ways
 #### Create remote first
