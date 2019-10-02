@@ -43,4 +43,17 @@ Markdown is used in GitHub's README and other `.md` files.
 More info: https://guides.github.com/features/mastering-markdown/
 
 ## Open source projects to get started
+
+### Moxilla
+https://codetribute.mozilla.org/
+
+### Pinax
+https://github.com/pinax 
+Search issues  by filter “first-timers-only”
+
+### Google Summer of Code
+https://summerofcode.withgoogle.com/ 
+
+### Blogs
+Blog on beginner’s friendly open source projects. https://opensource.com/life/16/1/6-beginner-open-source
 ### TODO
