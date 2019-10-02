@@ -1,4 +1,4 @@
-# appendix
+# Appendix
 Extra tips and resources relating to concepts covered in the workshop.
 
 Got more tips that you don't see here? Submit a pull request!
