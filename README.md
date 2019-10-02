@@ -1,4 +1,4 @@
-# github-appendix
+# appendix
 Extra tips and resources relating to concepts covered in the workshop.
 
 ### Version control
