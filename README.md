@@ -1,6 +1,8 @@
 # appendix
 Extra tips and resources relating to concepts covered in the workshop.
 
+Got more tips that you don't see here? Submit a pull request!
+
 ### Github tips
 #### GitHub commit access with SSH keys
 You can choose to use SSH keys to access your repos instead of HTTPS. If you use SSH, you don't need to enter your username and password when you are pushing to remote.  
